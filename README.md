@@ -2,6 +2,7 @@
 
 ## SQL Questions
 What are the 5 types of SQL statements?
+
 SQL statements can be categorized into five main types:
 
 **DDL** (Data Definition Language): Used to define or modify database structure (e.g., CREATE, ALTER, DROP).
